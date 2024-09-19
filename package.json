@@ -1,0 +1,12 @@
+{
+  "name": "trabajo-practico-2-tp2",
+  "version": "1.0.0",
+  "main": "mac.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GReskin",
+  "license": "ISC",
+  "description": "Trabajo Practico 2 - Taller de programacion 2"
+}
